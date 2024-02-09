@@ -1,0 +1,3 @@
+[submodule "code/class"]
+	path = code/class
+	url = https://github.com/karnaankit/class
